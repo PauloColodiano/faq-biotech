@@ -1,6 +1,6 @@
 # FAQ Biotech
 
-This is a simple project, applying Python, Streamlit and OpenAI from GPT.
+This is a simple project, applying Python, Streamlit and OpenAI from GPT. - OpenAI was remove for offline uses with no cost
 The intend of this program is use some simple command and use AI to respond clients
 
 ## Techs
